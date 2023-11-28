@@ -1,4 +1,5 @@
 {
   "token": "DISCORD_TOKEN",
+  "clientId": "DISCORD_CLIENT_ID",
   "broadcastChannelId": "DISCORD TEXT CHANNEL ID"
 }
