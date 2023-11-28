@@ -1,0 +1,16 @@
+{
+  "name": "discord-yes-no",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node index"
+  },
+  "keywords": [],
+  "author": "jf908",
+  "devDependencies": {
+    "discord.js": "^14.14.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.3.2"
+  }
+}
